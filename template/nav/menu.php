@@ -2,7 +2,7 @@
 /** @var stdClass $links_menu viene de links  */
 /** @var base\controller\controler $controlador viene de links  */
 use config\views;
-use gamboamartin\template_1\nav;
+use gamboamartin\template_ht\nav;
 
 ?>
 <div class="pull-left menu">

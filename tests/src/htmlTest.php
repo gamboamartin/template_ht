@@ -2,7 +2,7 @@
 namespace tests\controllers;
 
 use gamboamartin\errores\errores;
-use gamboamartin\template_1\html;
+use gamboamartin\template_ht\html;
 use gamboamartin\test\liberator;
 use gamboamartin\test\test;
 use stdClass;

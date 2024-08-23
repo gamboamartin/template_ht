@@ -2,7 +2,7 @@
 namespace tests\controllers;
 
 use gamboamartin\errores\errores;
-use gamboamartin\template_1\nav;
+use gamboamartin\template_ht\nav;
 use gamboamartin\test\liberator;
 use gamboamartin\test\test;
 use JetBrains\PhpStorm\NoReturn;

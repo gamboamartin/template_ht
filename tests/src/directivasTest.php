@@ -4,8 +4,8 @@ namespace tests\controllers;
 use gamboamartin\administrador\tests\base_test;
 use gamboamartin\controllers\controlador_adm_seccion;
 use gamboamartin\errores\errores;
-use gamboamartin\template_1\directivas;
-use gamboamartin\template_1\html;
+use gamboamartin\template_ht\directivas;
+use gamboamartin\template_ht\html;
 use gamboamartin\test\liberator;
 use gamboamartin\test\test;
 

@@ -1,5 +1,5 @@
 <?php
-namespace gamboamartin\template_1;
+namespace gamboamartin\template_ht;
 use config\generales;
 use gamboamartin\errores\errores;
 use stdClass;
