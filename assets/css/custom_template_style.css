@@ -6,23 +6,23 @@ body .menu .dropdown-item.active,
 body .color-primary,
 .agents-corousel-item .agent-details .mail:hover,
 .property-card .property-card-box .property-card-title a:hover,
-.menu .nav >.nav-item .nav-link:hover, 
+.menu .nav >.nav-item .nav-link:hover,
 .menu .active .nav-link,
 .menu .nav-link.active,
 .treefield-categories .treefield-box-item:hover,
 .color-primary-easy,
 body .btn.color-primary {
-    background-color: #0f7ad5;
+    background-color: #228B22;
 }
 
 body .widget .widget-header,
 body .border-color-primary {
-    border-color: #0f7ad5;
+    border-color: #228B22;
 }
 
 .news:not(.section-parallax) .card .title a,
-.property-card .property-card-box .property-card-title, 
-.property-card .property-card-box .property-card-title a, 
+.property-card .property-card-box .property-card-title,
+.property-card .property-card-box .property-card-title a,
 .agents-corousel-item .agent-details .mail,
 body .text-color-primary {
     color: #232F5C ;
@@ -37,19 +37,19 @@ body .pagination-carousel li.active a,
 .header .top-bar .pull-right,
 body .color-secondary,
 body .btn.color-secondary {
-    background-color: #232F5C;
+    background-color: #8B0000;
 }
 
 body .border-color-secondary {
-    border-color: #232F5C;
+    border-color: #8B0000;
 }
 /* end secondary color */
 
 /* background */
 body {
     background: #EDEEF0;
-  /*background: url(../img/patterns/full-bg-road.jpg) no-repeat fixed;
-    background-size: cover; */
+    /*background: url(../img/patterns/full-bg-road.jpg) no-repeat fixed;
+      background-size: cover; */
 }
 /* end background */
 
